@@ -33,7 +33,7 @@ Do next configuration in the file .nev
 
 Make your migrations
 
-- php artisan serve
+- php artisan migrate
 
 start the server
 
